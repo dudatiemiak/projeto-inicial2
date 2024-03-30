@@ -1,6 +1,5 @@
-form{
+section form{
     border-width: 1px;
-    border-color: rgb(200, 0, 0);
+    border-color: rgb(65, 62, 62);
     padding: 1px;
-
 }
