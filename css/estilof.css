@@ -2,11 +2,11 @@ section form{
     width: 100%;
 }
 form label{
-    color:antiquewhite;
+    color:rgb(0, 0, 0);
 }
 form fieldset{
-    border: 1px;
+    border-width: 1px;
     padding: 10px;
-    color: rgb(54, 54, 54);
+    color: rgb(68, 64, 64);
 
 }
