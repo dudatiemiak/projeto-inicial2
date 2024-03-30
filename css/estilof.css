@@ -1,5 +1,12 @@
 section form{
-    border-width: 1px;
-    border-color: rgb(65, 62, 62);
-    padding: 1px;
+    width: 100%;
+}
+form label{
+    color:antiquewhite;
+}
+form fieldset{
+    border: 1px;
+    padding: 10px;
+    color: rgb(54, 54, 54);
+
 }
