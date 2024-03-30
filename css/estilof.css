@@ -10,3 +10,6 @@ form fieldset{
     color: rgb(68, 64, 64);
 
 }
+form button{
+    background-color: blue;
+}
